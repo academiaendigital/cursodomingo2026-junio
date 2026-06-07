@@ -16,7 +16,8 @@
   - Variables en CSS
   - Instalar iconos y fuentes
 
-3. **Clase 4- Repassssso**
+3. **Clase 4- Repaso**
 4. **Clase 5- Footer Contacto**
    5 **Clase 6- GIT**
    ![Team](/assets/images/team.jpg "team")
+   - Terminal de Visual Studio Code
