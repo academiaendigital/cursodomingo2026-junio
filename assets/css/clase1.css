@@ -1,0 +1,45 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: blue;
+    font-size: 48px;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+.subtitle{
+    color: red;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#lista{
+    color: green;
+}
+
+a{ 
+    color: red;
+    font-size: 36px;
+    text-decoration: none; /* para quitar el subrayado*/
+}
+a:hover{
+    color: yellow;
+    
+}
+.img{
+    width: 800px;
+    border: 5px solid yellow;
+}
+.box{
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+    color: white;
+    border: 2px solid green;
+    padding: 30px 20px; /*cuando modifico arriba y abajo quiero que sean igual en este caso 80 y derecha e izquierda 30*/
+   /* padding: 50px; /*asi si yo quiero que los cuatro lados sean iguales*/
+   /* padding: 80px  30px  60px 50px;*/ /*asi cuando quiero que cada lado sea diferente*/
+   margin: 50px;
+}
+/*UNIDADES DE MEDIDA PX, %, EM, REM*/
+/*TIPOS DE SERVIDORES COMPARTIDO, VPS, CLOUD SERVER*/

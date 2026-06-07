@@ -1,0 +1,16 @@
+
+/*quienes somos*/
+
+.quienes-somos{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+
+}
+.img-fluid{
+ width: 600px;
+ height: auto;
+}
+.p-40{
+    padding: 40px;
+}

@@ -1,0 +1,13 @@
+.galeria a{
+  color: var(--main-color);
+}
+.galeria{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.pt-80{
+  padding-top: 80px;
+}
+.img-rounded{
+  border-radius: 15px;
+}
