@@ -1,22 +1,20 @@
-
-.servicios{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 20px;
+.servicios {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px; /*separacion entre cada columna*/
 }
 
-
-.servicios .col{
+.servicios .col {
   border-radius: 5px;
   border: 1px solid gray;
-  padding: 10px;
+  padding: 50px;
 }
-.servicios .col:hover{
+.servicios .col:hover {
   background-color: var(--black);
 
   color: var(--white);
 }
 
-.mt-40{
+.mt-40 {
   margin-top: 40px;
 }
