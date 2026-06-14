@@ -18,6 +18,9 @@
 
 3. **Clase 4- Repaso**
 4. **Clase 5- Footer Contacto**
-   5 **Clase 6- GIT**
+5. **Animaciones**
+6. **Clase 6- GIT**
    ![Team](/assets/images/team.jpg "team")
    - Terminal de Visual Studio Code
+
+7.-
