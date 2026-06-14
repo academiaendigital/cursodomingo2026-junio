@@ -1,0 +1,27 @@
+@media screen and (max-width: 600px) {
+  .quienes-somos {
+    display: grid;
+    grid-template-columns: auto;
+    gap: 10px;
+  }
+  .servicios {
+    display: grid;
+    grid-template-columns: auto;
+    gap: 5px; /*separacion entre cada columna*/
+    padding-left: 5%;
+  }
+  .footer {
+    display: grid;
+    grid-template-columns: auto;
+  }
+
+  .galeria {
+    display: grid;
+    grid-template-columns: auto;
+  }
+
+  .img-fluid {
+    width: 100%;
+    height: auto;
+  }
+}

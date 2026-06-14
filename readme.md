@@ -23,4 +23,8 @@
    ![Team](/assets/images/team.jpg "team")
    - Terminal de Visual Studio Code
 
-7.-
+7. **CLASE 7**
+
+- Libreria Animate css
+- Introducción a Diseño Responsive
+- Media Queries
